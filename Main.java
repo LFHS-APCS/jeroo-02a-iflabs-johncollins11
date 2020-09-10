@@ -1,5 +1,5 @@
 /**
- *  See Readme.md for instructions.
+ *  See Readme.md for instructions. 
  *  Use left and right arrow keys to see it when running main()
  */
 public class Main implements Directions {
